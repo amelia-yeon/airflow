@@ -109,3 +109,21 @@
 [2023-09-15 11:33:18,577] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
 [2023-09-15 11:33:18,578] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-09-15 02:28:18.578238+00:00
 [2023-09-15 11:33:21,684] {manager.py:495} INFO - Exiting gracefully upon receiving signal 15
+[2023-09-15 11:40:00,804] {manager.py:514} INFO - Processing files using up to 1 processes at a time 
+[2023-09-15 11:40:00,805] {manager.py:515} INFO - Process each file at most once every 30 seconds
+[2023-09-15 11:40:00,805] {manager.py:516} INFO - Checking for new files in /home/sychung/airflow/dags every 300 seconds
+[2023-09-15 11:40:00,805] {manager.py:663} INFO - Searching for files in /home/sychung/airflow/dags
+[2023-09-15 11:40:00,805] {manager.py:666} INFO - There are 0 files in /home/sychung/airflow/dags
+[2023-09-15 11:40:00,824] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-09-15 11:40:00,824] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-09-15 02:35:00.824674+00:00
+[2023-09-15 11:40:10,841] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-09-15 11:40:10,841] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-09-15 02:35:10.841833+00:00
+[2023-09-15 11:40:20,941] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-09-15 11:40:20,941] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-09-15 02:35:20.941775+00:00
+[2023-09-15 11:40:31,016] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-09-15 11:40:31,017] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-09-15 02:35:31.017195+00:00
+[2023-09-15 11:40:41,111] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-09-15 11:40:41,111] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-09-15 02:35:41.111848+00:00
+[2023-09-15 11:40:51,201] {manager.py:1065} INFO - Finding 'running' jobs without a recent heartbeat
+[2023-09-15 11:40:51,201] {manager.py:1069} INFO - Failing jobs without heartbeat after 2023-09-15 02:35:51.201199+00:00
+[2023-09-15 11:40:55,924] {manager.py:495} INFO - Exiting gracefully upon receiving signal 15
